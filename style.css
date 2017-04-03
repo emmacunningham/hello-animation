@@ -3,6 +3,7 @@
   width: 600px;
   height: 600px;
   position: relative;
+  overflow: hidden;
 }
 
 .dot {
@@ -11,6 +12,5 @@
   top: 300px;
   width: 10px;
   height: 10px;
-  background: red;
   border-radius: 50%;
 }
